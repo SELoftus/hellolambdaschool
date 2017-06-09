@@ -5,9 +5,13 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
 	* Functions
+		Functions are blocks of code that can be used over and over again through the program. This saves the programmer from having to write the same code many times.
 	* Parameters
+		Parameters are used as placeholders in a function, like a blank line on a test, letting the programmer use the function many times without having to rewrite it to include anything a user might enter.
 	* Arguments
+		Arguments are what replaces the parameters in a function, like filling in the blank line on a test, when the function is going to be used.
 	* `if` statements
+		'If' statements change the answer the function gives, depending on what arguments it is given. This way you can tell the function to show one answer if it's given a certain argument, like the word 'fizz' if it sees the number '3' and 'buzz' if it sees the number '5', instead of having to write a new function for every possibility.d
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
